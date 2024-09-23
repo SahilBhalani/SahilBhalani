@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Bhalani</h1>
-<h3 align="center">A passionate Backend developer from Surat,India</h3>
+<h3 align="center">A passionate Backend developer from Bangalore,India</h3>
 
 - 🔭 I’m currently working on **Ecommmerce Project**
 
