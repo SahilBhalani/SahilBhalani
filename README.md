@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Sahil Bhalani<br><br>A passionate Backend developer from Surat, India.<br><br>- 🔭 I’m currently working on Billing Project.<br><br>- 🌱 I’m currently learning Enhanced Backend Systems.
+Hi 👋, I'm Sahil Bhalani<br><br>A passionate Backend developer from Surat, India.<br><br>- 🔭 I’m currently working on Billing Project.<br><br>- 🌱 I’m currently learning MEAN Stack Development.
 
 
 ## 🌐 Socials:
